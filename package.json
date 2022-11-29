@@ -1,0 +1,24 @@
+{
+  "name": "gpodder-cf-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/podcast-syndication/gpodder-cf-worker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/podcast-syndication/gpodder-cf-worker/issues"
+  },
+  "homepage": "https://github.com/podcast-syndication/gpodder-cf-worker#readme",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20221111.1",
+    "typescript": "^4.9.3",
+    "wrangler": "^2.4.4"
+  }
+}

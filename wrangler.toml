@@ -1,4 +1,4 @@
 name = "gpodder-cf-worker"
-compatibility_date = "2022-11-30"
+compatibility_date = "2022-10-31"
 node_compat = true
 main = "src/index.ts"
